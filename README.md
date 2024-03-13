@@ -32,44 +32,70 @@ Exciting, isn't it? C++ stands as one of the most popular development languages,
 ### Arrays C++ Programs
 
 **Day-8:** What are array and how to input and output the array from user?
+
 **Day-9:** How to pass array from one function to the other?
+
 **Day-10:** Write a program to copy the contents of one array into another in the reverse order.
+
 **Day-11:** Sum of Elements of an Array
+
 **Day-12:** Largest/Smallest Element in an Array
+
 **Day-13:** Finding Frequencies in an Character/int Array
+
 **Day-14:** Even/Odd identification in Array // Fizz Buzz Challenge
+
 **Day-15:** Matrix Addition/Subtraction using Arrays
+
 **Day-16:** Finding All Multiplicative Up-to Given  Number
+
 **Day-17:** Bubble Sort
+
 **Day-18:** Selection Sort
+
 **Day-19:** Merge Sort
+
 **Day-20:** Linear Search 
+
 **Day-21:** Binary Search
 
 
 ### Strings C++ Programs
 
 **Day-22:** Reversing a String
+
 **Day-23:** Checking Palindrome Strings
+
 **Day-24:** Frequency of Characters in a String
+
 **Day-25:** Converting Case of Characters in a String
+
 **Day-26:** Checking Anagrams between Two Strings
+
 **Day-28:** String Tokenization
+
 **Day-29:** Basic Text Encryption/Decryption
+
 **Day-30:** Word Guess Game
 
 
 ### Vectors C++ Programs
 **Day-31:** Vector Sum
+
 **Day-32:** Vector Sort
+
 **Day-33:** Vector Union-Find
 
 ### Intermediate Programming
 
 **Day-34:** Introduction to pointers/ Referencing, De Referencing with pointers
+
 **Day-35:** Pointers Intermediate (Pointer For Pointer, Deref Chain)
+
 **Day-36:** Swapping Numbers using Pointers
+
 **Day-37:** Dynamic Memory Allocation for an Array
+
 **Day-38:** Structures
 **Day-39:** Classes Basics
 **Day-40:** Clasees Intermidiate
