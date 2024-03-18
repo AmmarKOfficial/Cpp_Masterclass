@@ -72,84 +72,127 @@ Exciting, isn't it? C++ stands as one of the most popular development languages,
 
 **Day-26:** Checking Anagrams between Two Strings
 
-**Day-28:** String Tokenization
+**Day-27:** String Tokenization
 
-**Day-29:** Basic Text Encryption/Decryption
+**Day-28:** Basic Text Encryption/Decryption
 
-**Day-30:** Word Guess Game
+**Day-29:** Word Guess Game
 
 
 ### Vectors C++ Programs
-**Day-31:** Vector Sum
+**Day-30:** Vector Sum
 
-**Day-32:** Vector Sort
+**Day-31:** Vector Sort
 
-**Day-33:** Vector Union-Find
+**Day-32:** Vector Union-Find
 
 ### Intermediate Programming
 
-**Day-34:** Introduction to pointers/ Referencing, De Referencing with pointers
+**Day-33:** Introduction to pointers/ Referencing, De Referencing with pointers
 
-**Day-35:** Pointers Intermediate (Pointer For Pointer, Deref Chain)
+**Day-34:** Pointers Intermediate (Pointer For Pointer, Deref Chain)
 
-**Day-36:** Swapping Numbers using Pointers
+**Day-35:** Swapping Numbers using Pointers
 
-**Day-37:** Dynamic Memory Allocation for an Array
+**Day-36:** Dynamic Memory Allocation for an Array
 
-**Day-38:** Structures
-**Day-39:** Classes Basics
-**Day-40:** Clasees Intermidiate
-**Day-41:** Creating a Linked List
-**Day-42:** Reversing a Linked List
+**Day-37:** Structures
+
+**Day-38:** Classes Basics
+
+**Day-39:** Clasees Intermidiate
+
+**Day-40:** Objects From Function to Function
+
+**Day-41:** Singly Linked List
+
+**Day-41:** Circular & Doubly Linked List
+
 **Day-43:** Deleting a Node from a Linked List
-**Day-44:** Classes Basics
-**Day-45:** Classes Intermidiate 
-**Day-46:** Implementing a Queue 
-**Day-47:** Implementing a Stack
-**Day-48:** Operator Overloading
-**Day-49:** Circular Queue Implementation
-**Day-50:** Hash Table
-**Day-51:** Trees
-**Day-52:** Graphs
+
+**Day-44:** Reversing a Linked List 
+
+**Day-45:** Print the sum, difference and product of two complex numbers by creating a class named 'Complex' with separate functions for each operation whose real and imaginary parts are entered by the user.
+
+**Day-46:** Write a C++ program to implement a class called Circle that has private member variables for radius. Include member functions to calculate the circle's area and circumference. 
+
+**Day-47:** Implementing a Queue 
+
+**Day-48:** Implementing a Stack
+
+**Day-49:** Operator Overloading
+
+**Day-50:** Circular Queue Implementation
+
+**Day-51:** Hash Table
+
+**Day-52:** Trees
+
+**Day-53:** Graphs
 
 
 ### Object-Oriented Programming
 
-**Day-53:** Inheritance
-**Day-54:** Encapsulation
-**Day-55:** Abstraction
-**Day-56:** Operator Overloading
-**Day-57:** Abstraction
-**Day-58:** Polymorphism Basics
-**Day-59:** Polymorphism Intermidiate
-**Day-60:** Project Employee Management System-1
-**Day-61:** Project Employee Management System-2
-**Day-62:** Project Employee Management System-3
-**Day-63:** Project Employee Management System-4
-**Day-64:** Project Banking System-1
-**Day-65:** Project Banking System-2
-**Day-66:** Project Banking System-3
-**Day-67:** Project Banking System-4
+**Day-54:** Inheritance
+
+**Day-55:** Encapsulation
+
+**Day-56:** Abstraction
+
+**Day-57:** Operator Overloading
+
+**Day-58:** Abstraction
+
+**Day-59:** Polymorphism Basics
+
+**Day-60:** Polymorphism Intermidiate
+
+**Day-61:** Project Employee Management System-1
+
+**Day-62:** Project Employee Management System-2
+
+**Day-63:** Project Employee Management System-3
+
+**Day-64:** Project Employee Management System-4
+
+**Day-65:** Project Banking System-1
+
+**Day-66:** Project Banking System-2
+
+**Day-67:** Project Banking System-3
+
+**Day-68:** Project Banking System-4
 
 ### Practical Programming 
-**Day-68:** Threading Basics
-**Day-69:** Therading Intermidiate
-**Day-70:** Example With Mutex
-**Day-71:** File Handleing
-**Day-72:** Queue and Stack With File Handling 
-**Day-73:** QT Introduction
-**Day-74:** QT Application
-**Day-75:** QT Project Walk Through
-**Day-76:** Socket Programming UDP
-**Day-77:** Socket Programming TCP
-**Day-78:** Working with Number Systems (Bit/Byte)
-**Day-79:** Example Programs with Numbers
+**Day-69:** Threading Basics
+
+**Day-70:** Therading Intermidiate
+
+**Day-71:** Example With Mutex
+
+**Day-72:** File Handleing
+
+**Day-73:** Queue and Stack With File Handling 
+
+**Day-74:** QT Introduction
+
+**Day-75:** QT Application
+
+**Day-76:** QT Project Walk Through
+
+**Day-77:** Socket Programming UDP
+
+**Day-78:** Socket Programming TCP
+
+**Day-79:** Working with Number Systems (Bit/Byte)
+
+**Day-80:** Example Programs with Numbers
 
 
 ### Projects C++
 
 #### Beginners Level
-    1. CGPA Calculator
+    1. CGPA Calculator   
     2. Rock Paper Scissor
     3. Casino Number Guessing Game
     4. Calculator for Scientific Operations
