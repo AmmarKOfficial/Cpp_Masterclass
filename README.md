@@ -120,73 +120,73 @@ Exciting, isn't it? C++ stands as one of the most popular development languages,
 
 **Day-48:** Implementing a Stack
 
-**Day-49:** Operator Overloading
+**Day-49:** Circular Queue Implementation
 
-**Day-50:** Circular Queue Implementation
+**Day-50:** Operator Overloading
 
-**Day-51:** Hash Table
+**Day-51:** Non Linear Data Structures Tree 
 
-**Day-52:** Trees
+**Day-52:** Hash Tables Serching.
 
-**Day-53:** Graphs
+**Day-54:** Hash Tables Deletion n Insertion. 
+
+**Day-54:** Graphs
 
 
 ### Object-Oriented Programming
 
-**Day-54:** Inheritance
+**Day-55:** Inheritance 
 
-**Day-55:** Encapsulation
+**Day-56:** Inheritance and Function Overriding
 
-**Day-56:** Abstraction
+**Day-57:** Multilevel Inherihence
 
-**Day-57:** Operator Overloading
+**Day-58:** Encapsulation
 
-**Day-58:** Abstraction
+**Day-59:** Abstraction
 
-**Day-59:** Polymorphism Basics
+**Day-60:** Encapsulation Vs Abstraction
 
-**Day-60:** Polymorphism Intermidiate
+**Day-61:** Polymorphism (Runtime and Compile Time)
 
-**Day-61:** Project Employee Management System-1
+**Day-62:** Calculator Project
 
-**Day-62:** Project Employee Management System-2
+**Day-63:** Quiz Application
 
-**Day-63:** Project Employee Management System-3
+**Day-64:** Hotel Management System
 
-**Day-64:** Project Employee Management System-4
+**Day-65:** Employee Management System
 
-**Day-65:** Project Banking System-1
+**Day-66:** Friends Function
 
-**Day-66:** Project Banking System-2
+**Day-67:** Command Line Arguments
 
-**Day-67:** Project Banking System-3
-
-**Day-68:** Project Banking System-4
+**Day-68:** Exception Handling
 
 ### Practical Programming 
-**Day-69:** Threading Basics
+**Day-69:** Multi Threading
 
-**Day-70:** Therading Intermidiate
+**Day-70:** Ways To Create Thread
 
-**Day-71:** Example With Mutex
+**Day-71:** Mutex Dependent Threading in C++
 
-**Day-72:** File Handleing
+**Day-72:** Socket Programming UDP
 
-**Day-73:** Queue and Stack With File Handling 
+**Day-73:** Socket Programming TCP
 
-**Day-74:** QT Introduction
+**Day-74:** File Handleing
 
-**Day-75:** QT Application
+**Day-75:** Queue and Stack With File Handling 
 
-**Day-76:** QT Project Walk Through
+**Day-76:** Working with Number Systems (Bit/Byte)
 
-**Day-77:** Socket Programming UDP
+**Day-77:** Example Programs with Numbers
 
-**Day-78:** Socket Programming TCP
+**Day-78:** QT Introduction
 
-**Day-79:** Working with Number Systems (Bit/Byte)
+**Day-79:** QT Application
 
-**Day-80:** Example Programs with Numbers
+**Day-80:** QT Project Walk Through
 
 
 ### Projects C++
