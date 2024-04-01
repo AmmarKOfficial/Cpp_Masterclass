@@ -8,6 +8,7 @@ using namespace std::chrono;
 typedef long long int  ull;
 
 void findEven(ull start, ull end, ull* EvenSum) {
+    cout<<"I'm in Even"<<endl;
     for (ull i = start; i <= end; ++i){
         if (!(i & 1)){
             *(EvenSum) += i;
@@ -16,6 +17,7 @@ void findEven(ull start, ull end, ull* EvenSum) {
 }
  
 void findOdd(ull start, ull end, ull* OddSum) {
+    cout<<"I'm in Odd"<<endl;
     for (ull i = start; i <= end; ++i){
         if (i & 1){
             (*OddSum) += i;
@@ -42,7 +44,7 @@ int main()
 
     auto stopTime_tr = high_resolution_clock::now(); 
     auto duration_tr = duration_cast<microseconds>(stopTime_tr - startTime_tr);
-    
+    cout<<"Threading Done"<<endl;
     auto startTime_wtr = high_resolution_clock::now(); 
     findEven(start,end, &EvenSum);
 	findOdd(start, end, &OddSum);

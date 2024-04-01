@@ -178,16 +178,13 @@ Exciting, isn't it? C++ stands as one of the most popular development languages,
 
 **Day-75:** Queue and Stack With File Handling 
 
-**Day-76:** Working with Number Systems (Bit/Byte)
+**Day-76:** Bitwise Operations
 
-**Day-77:** Example Programs with Numbers
+**Day-77:** Bit Byte and Beyond
 
-**Day-78:** QT Introduction
+**Day-78-99:** Interview Race
 
-**Day-79:** QT Application
-
-**Day-80:** QT Project Walk Through
-
+**Day-100:** Roadmap to Be C++ Developer
 
 ### Projects C++
 
